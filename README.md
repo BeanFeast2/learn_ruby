@@ -1,6 +1,8 @@
 Test First Ruby -- RSpec 3 Edition
 ==========
 
+From: https://www.theodinproject.com/courses/web-development-101/lessons/ruby
+
 ### Set up instructions
 
 1. Fork this repo
